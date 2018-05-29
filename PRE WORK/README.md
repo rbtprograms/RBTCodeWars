@@ -1,0 +1,3 @@
+This took me a while...
+
+The problem was looping through each array and comparing the proper values. It was hard to be able to grab each value and figure out how to compare them, and the random tests kept blowing me up. The key was to make sure you were going through the array at the proper length!
