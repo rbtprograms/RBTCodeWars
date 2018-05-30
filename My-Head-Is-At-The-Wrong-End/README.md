@@ -1,0 +1,1 @@
+This one was super simple, a simple reverse method. I worked with carmen and we both came to the solution in about a minute! Although I do appreciate the easier code wars challenges, I've tried doing some extra and I get stuck a lot! Codewars is hard.
