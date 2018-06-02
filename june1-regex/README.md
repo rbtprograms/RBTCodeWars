@@ -1,0 +1,3 @@
+Problem Domain: create a regex that checks for a few different values, lowercase letters, numbers, and underscores. Having never written a regex, it was quite challening.
+
+I liked this one a lot. I whiteboarded with Antreo and we ended up taking about 10 minutes to write out the regex. Once we got into it on Regex101.com it wasn't so bad to figure out how to write one and what to add, but it was a bit intimidating at first. I was happy with the result though. I am going to try and do more learning on regex for the future.
