@@ -1,0 +1,3 @@
+problem domain: When given an array of three integers, find out which one is in the middle.
+
+This one was... harder than I expected it too be. I worked with Sarah and I will be the first to admit: ours is not the most elegant solution. It is a solution, but there have got to be better ways to do it. We worked on this for probably around half an hour getting the logic right, and I'm happy with what we came up with. It's the same thing a lot of other people did, but it's not the best way.
